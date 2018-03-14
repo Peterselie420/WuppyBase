@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Wuppy Base</string>
+    <string name="login_with_google">Login With Google</string>
+</resources>
